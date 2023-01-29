@@ -1,0 +1,5 @@
+v0.9
+Add 'changes.txt' file and re-organize the code
+
+v0.7 / v0.8
+Fix the Code/Script.lua not being used
