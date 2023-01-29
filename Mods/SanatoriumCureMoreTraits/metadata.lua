@@ -1,7 +1,7 @@
 return PlaceObj("ModDef", {
 	"title", "Sanatorium Cure More Traits",
 	"id", "hlechner_CureMoreTraits",
-	"steam_id", "2924506941",
+	"steam_id", "2924563270",
 	"pops_any_uuid", "ecf36fe5-a006-4aaa-b717-9a12be161e1b",
 	"lua_revision", 1007000, -- Picard
 	"version", 9,
