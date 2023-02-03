@@ -2,7 +2,7 @@ return PlaceObj("ModDef", {
 	"title", "Airline Logos",
 	"id", "hlechner_AirlineLogos",
 	"steam_id", "2927916868",
-    "pops_any_uuid", "5a7606f7-4b86-4acd-8e85-fbf73a905c7b",
+	"pops_any_uuid", "5a7606f7-4b86-4acd-8e85-fbf73a905c7b",
 	"lua_revision", 1007000, -- Picard
 	"version", 0,
 	"version_major", 0,
